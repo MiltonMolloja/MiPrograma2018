@@ -16,6 +16,7 @@ public class Clase {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		System.out.println("Yo de Nuevo");
+		System.out.println("YO Tercero);
 	}
 
 }
