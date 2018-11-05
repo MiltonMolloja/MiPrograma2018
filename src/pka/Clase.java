@@ -25,6 +25,8 @@ public class Clase {
 		System.out.println("Primer Desde Kraken");
 		System.out.println("Linea Principal");
 		System.out.println("Separado Desde Kraken");
+		
+		System.out.println("Todos Juntos");
 
 	}
 
