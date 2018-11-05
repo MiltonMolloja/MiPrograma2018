@@ -24,6 +24,7 @@ public class Clase {
 		System.out.println("Desde Eclipse");
 		System.out.println("Primer Desde Kraken");
 		System.out.println("Linea Principal");
+		System.out.println("Separado Desde Kraken");
 
 	}
 
